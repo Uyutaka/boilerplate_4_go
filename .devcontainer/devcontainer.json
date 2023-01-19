@@ -1,0 +1,12 @@
+{
+	"name": "Go Env",
+	// Dockerfileでイメージ・コンテナを作成
+	"dockerFile": "Dockerfile",
+	// リモート先のVS Codeにインストールする拡張機能
+	"extensions": [
+		"WakaTime.vscode-wakatime",
+		"golang.go",
+		"766b.go-outliner",
+		"premparihar.gotestexplorer"
+	]
+}
